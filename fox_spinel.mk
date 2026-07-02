@@ -19,7 +19,7 @@
 #
 
 # maintainer
-OF_MAINTAINER := MkProMVP
+OF_MAINTAINER := TheGreatEclipse
 
 # screen settings
 OF_SCREEN_H := 2400
